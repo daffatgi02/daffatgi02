@@ -7,7 +7,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Engineering at the Institut Teknologi Telkom Surabaya.\
 🌱 &nbsp;I'm learning more about Artificial Intelligence, System Design, and Cloud Architecture but haven't mastered it yet.\
-✍️ &nbsp;In my free time, I prefer to play Valorant \
+✍️ &nbsp;In my free time, I prefer to play Planetside2 \
 ✉️ &nbsp;You can shoot me an email at daffatgi02@gmail.com! I'll try to respond as soon as I can.\
 
 
