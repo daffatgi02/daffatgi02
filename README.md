@@ -1,6 +1,5 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Daffa</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Daffa Fahkuddin Arrozy</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Daffa -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -11,7 +10,7 @@
 ✉️ &nbsp;You can shoot me an email at daffatgi02@gmail.com! I'll try to respond as soon as I can.\
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right"/>
 
 ### 🛠 &nbsp;Language
 
