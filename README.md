@@ -13,10 +13,10 @@
 <img alt="Night Coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right"/>
 
 ### 🛠 &nbsp;Skills [Basic]
-[![My Skills](https://skillicons.dev/icons?i=tailwind,react,python&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react,python,nodejs,vuejs&theme=light)](https://skillicons.dev)
 
 ### 🛠 &nbsp;Skills [Intermediate]
-[![My Skills](https://skillicons.dev/icons?i=nodejs,vuejs,html,css,js&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=light)](https://skillicons.dev)
 
 ### 🛠 &nbsp;My Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,ps,ae,v,&theme=light)](https://skillicons.dev)
