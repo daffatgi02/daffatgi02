@@ -19,4 +19,4 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=light)](https://skillicons.dev)
 
 ### 🛠 &nbsp;My Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,ps,ae,v,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,ps,v,&theme=light)](https://skillicons.dev)
