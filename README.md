@@ -14,13 +14,11 @@
 
 <img alt="Night Coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right"/>
 
-### 🛠 &nbsp;Skills [Basic]
+### 🛠 &nbsp;Language
 [![My Skills](https://skillicons.dev/icons?i=tailwind,react,python,vuejs&theme=light)](https://skillicons.dev)
-
-### 🛠 &nbsp;Skills [Intermediate]
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs&theme=light)](https://skillicons.dev)
 
-### 🛠 &nbsp;My Tools
+### 🛠 &nbsp;Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,ps,v,&theme=light)](https://skillicons.dev)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=daffatgi02&show_icons=true&theme=gotham" alt="daffatgi02" />
