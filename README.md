@@ -20,3 +20,5 @@
 
 ### 🛠 &nbsp;My Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,ps,v,&theme=light)](https://skillicons.dev)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=daffatgi02&show_icons=true&theme=gotham" alt="daffatgi02" />
