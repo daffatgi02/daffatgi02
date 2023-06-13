@@ -12,7 +12,7 @@
 ✉️ &nbsp;You can shoot me an email I'll try to respond as soon as I can.\
 
 
-<img alt="Night Coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right"/>
+
 
 ### 🛠 &nbsp;Language [Intermediate]
 [![My Skills](https://skillicons.dev/icons?i=tailwind,react,python,vuejs&theme=light)](https://skillicons.dev)
