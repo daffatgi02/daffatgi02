@@ -14,7 +14,7 @@
 
 <img alt="Night Coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right"/>
 
-### 🛠 &nbsp;Language
+### 🛠 &nbsp;Language [Intermediate]
 [![My Skills](https://skillicons.dev/icons?i=tailwind,react,python,vuejs&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs&theme=light)](https://skillicons.dev)
 
