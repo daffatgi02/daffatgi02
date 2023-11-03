@@ -15,8 +15,7 @@
 
 
 ### 🛠 &nbsp;Language [Intermediate]
-[![My Skills](https://skillicons.dev/icons?i=tailwind,react,python,vuejs&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs&theme=light)](https://skillicons.dev)
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=daffatgi02&show_icons=true&theme=gotham" alt="daffatgi02" />
