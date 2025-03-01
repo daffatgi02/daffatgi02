@@ -4,12 +4,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-daffatgi02@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:daffatgi02@gmail.com)](mailto:daffatgi02@gmail.com)
 
 
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Engineering at the Institut Teknologi Telkom Surabaya.\
 🌱 &nbsp;I'm learning more about Artificial Intelligence, System Design, and Cloud Architecture but haven't mastered it yet.\
 ✉️ &nbsp;You can shoot me an email I'll try to respond as soon as I can.\
+[![Deploy to cPanel](https://github.com/daffatgi02/invetarisbarang/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/daffatgi02/invetarisbarang/actions/workflows/deploy.yml)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=daffatgi02&show_icons=true&theme=gotham" alt="daffatgi02" />
   
